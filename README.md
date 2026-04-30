@@ -26,3 +26,7 @@ Optimización del flujo vehicular hacia el Lago y reactivación del comercio loc
 * hakaton academico 2026 - calima el darien * 
 
 #HOLA JULIO
+## Tipo de Solución
+Página web informativa y comunitaria (web app),
+accesible desde buscadores como Google,
+con opción futura de descarga de aplicación móvil.
