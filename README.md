@@ -26,7 +26,27 @@ Optimización del flujo vehicular hacia el Lago y reactivación del comercio loc
 * hakaton academico 2026 - calima el darien * 
 
 #HOLA JULIO
+
+
 ## Tipo de Solución
 Página web informativa y comunitaria (web app),
 accesible desde buscadores como Google,
-con opción futura de descarga de aplicación móvil.
+con opción futura de descarga de aplicación móvil,
+evitando la barrera inicial de instalar una app.
+
+## Rol en el Proyecto
+**Diseño Gráfico y UX/UI Web – Luisa**
+Responsable del diseño visual, experiencia de usuario,
+estructura de la página web y prototipo funcional.
+
+## Diseño Visual
+- Colores inspirados en el Lago Calima y la naturaleza
+- Interfaz limpia y moderna en Dark Mode
+- Uso de iconografía clara y accesible
+- Diseño mobile-first
+
+## Herramientas Utilizadas
+- Canva (prototipo web)
+- Trello / Notion (tablero Kanban)
+- Visual Studio Code (estructura del proyecto)
+  
