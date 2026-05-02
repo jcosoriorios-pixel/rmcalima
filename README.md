@@ -1,4 +1,4 @@
-# rmcalima
+# rmcalima NUEVO
 
 # Reto 3: Movilidad e Información Municipal - Calima El Darién 
 
@@ -25,6 +25,7 @@ Optimización del flujo vehicular hacia el Lago y reactivación del comercio loc
 
 * hakaton academico 2026 - calima el darien * 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #HOLA JULIO
@@ -53,3 +54,5 @@ estructura de la página web y prototipo funcional.
 - Visual Studio Code (estructura del proyecto)
   
 >>>>>>> ff342ccd119a4ef7b8fb14df062dfcbc238e87ae
+=======
+>>>>>>> feature/docs
