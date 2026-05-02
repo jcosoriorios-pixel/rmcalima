@@ -1,8 +1,4 @@
-# rmcalima
-# rmcalima
-# rmcalima
-# rmcalima
-# rmcalima
+# rmcalima NUEVO
 
 # Reto 3: Movilidad e Información Municipal - Calima El Darién 
 
@@ -28,3 +24,4 @@ Nuestra propuesta utiliza a los **comerciantes locales fijos** (estancos, locale
 Optimización del flujo vehicular hacia el Lago y reactivación del comercio local mediante una agenda cultural centralizada.
 
 * hakaton academico 2026 - calima el darien * 
+
