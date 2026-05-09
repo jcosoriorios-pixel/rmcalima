@@ -1,0 +1,15 @@
+site_name: Wiki de Proyecto - Reto 3: Movilidad e Información Municipal - Calima El Darién
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'blue'
+  features:
+    - navigation.expand
+    - serch.suggest
+
+nav:
+  - Inicio: index.md 
+  - Documentación:   
+    - Instalación: instalacion.md
+    - Manual de Usuario: manual.md 
